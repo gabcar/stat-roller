@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/stat-roller/static/css/main.b3cc918a.chunk.css",
-    "main.js": "/stat-roller/static/js/main.f59a4451.chunk.js",
-    "main.js.map": "/stat-roller/static/js/main.f59a4451.chunk.js.map",
-    "runtime~main.js": "/stat-roller/static/js/runtime~main.b3213c3e.js",
-    "runtime~main.js.map": "/stat-roller/static/js/runtime~main.b3213c3e.js.map",
-    "static/js/2.09d912ee.chunk.js": "/stat-roller/static/js/2.09d912ee.chunk.js",
-    "static/js/2.09d912ee.chunk.js.map": "/stat-roller/static/js/2.09d912ee.chunk.js.map",
-    "index.html": "/stat-roller/index.html",
-    "precache-manifest.0cc6ac20de4b8975676ace45bba4fd07.js": "/stat-roller/precache-manifest.0cc6ac20de4b8975676ace45bba4fd07.js",
-    "service-worker.js": "/stat-roller/service-worker.js",
-    "static/css/main.b3cc918a.chunk.css.map": "/stat-roller/static/css/main.b3cc918a.chunk.css.map"
+    "main.css": "https//:stat-roller.com/static/css/main.dac6ec18.chunk.css",
+    "main.js": "https//:stat-roller.com/static/js/main.9957705c.chunk.js",
+    "main.js.map": "https//:stat-roller.com/static/js/main.9957705c.chunk.js.map",
+    "runtime~main.js": "https//:stat-roller.com/static/js/runtime~main.1b377956.js",
+    "runtime~main.js.map": "https//:stat-roller.com/static/js/runtime~main.1b377956.js.map",
+    "static/js/2.09d912ee.chunk.js": "https//:stat-roller.com/static/js/2.09d912ee.chunk.js",
+    "static/js/2.09d912ee.chunk.js.map": "https//:stat-roller.com/static/js/2.09d912ee.chunk.js.map",
+    "index.html": "https//:stat-roller.com/index.html",
+    "precache-manifest.9811218d852a616ea7a12d53bf5ef0a2.js": "https//:stat-roller.com/precache-manifest.9811218d852a616ea7a12d53bf5ef0a2.js",
+    "service-worker.js": "https//:stat-roller.com/service-worker.js",
+    "static/css/main.dac6ec18.chunk.css.map": "https//:stat-roller.com/static/css/main.dac6ec18.chunk.css.map"
   }
 }
