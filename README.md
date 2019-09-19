@@ -5,5 +5,5 @@ Tool for quickly rolling ability scores for Dungeons and Dragons 5th edition. Fo
 ## Preview
 
 <p align="center">
-  <img src="preview.png" width="350" title="hover text">
+  <img src="preview.png" width="600" title="hover text">
 </p>
